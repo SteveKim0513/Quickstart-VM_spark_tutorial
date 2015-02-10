@@ -7,6 +7,7 @@ importance of distributed data processing for many companies and the pursuit for
 technologies aiming replace or complement the widely adopted Hadoop ecosystem and its MapReduce paradigm.
 
 You need to some preparation to run this example.
+
 1. VMware Download(http://www.vmware.com/kr) and Install
 
 2. Quickstart tutorial Download(http://www.cloudera.com/content/cloudera/en/downloads.html)
