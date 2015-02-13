@@ -15,4 +15,4 @@ You need to some preparation to run this example.
 3. Open the Quickstart tutorial file(/cloudera-quickstart-vm-5.3.0-0-vmware/cloudera-quickstart- vm-5.3.0-0
 vmware.vmx) on VMware.
 
-4. Download the dataset on Github.(https://github.com/SteveKim0513/spark_exam_dataset.git)
+4. Download the dataset from Github.(https://github.com/SteveKim0513/spark_exam_dataset.git)
